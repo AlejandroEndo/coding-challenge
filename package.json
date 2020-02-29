@@ -1,0 +1,24 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge moove-it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroEndo/coding-challenge.git"
+  },
+  "keywords": [
+    "mooove-it",
+    "nodejs",
+    "memcached"
+  ],
+  "author": "Alejandro Endo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroEndo/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/AlejandroEndo/coding-challenge#readme"
+}
