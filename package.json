@@ -4,6 +4,7 @@
   "description": "Coding challenge moove-it",
   "main": "app.js",
   "scripts": {
+    "dev":"nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/AlejandroEndo/coding-challenge/issues"
   },
-  "homepage": "https://github.com/AlejandroEndo/coding-challenge#readme"
+  "homepage": "https://github.com/AlejandroEndo/coding-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "flat-cache": "^2.0.1",
+    "memory-cache": "^0.2.0",
+    "redis": "^3.0.2",
+    "sqlite3": "^4.1.1"
+  }
 }
